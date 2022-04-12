@@ -1,0 +1,245 @@
+<!-- wp:cover {"url":"https://coffeshopexample.files.wordpress.com/2022/04/pexels-photo-585750.jpeg","id":32,"dimRatio":10,"focalPoint":{"x":"0.52","y":"0.00"},"minHeight":85,"minHeightUnit":"vh","contentPosition":"center center","isDark":false,"align":"full"} -->
+<div class="wp-block-cover alignfull is-light" style="min-height:85vh"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-10 has-background-dim"></span><img class="wp-block-cover__image-background wp-image-32" alt="" src="https://coffeshopexample.files.wordpress.com/2022/04/pexels-photo-585750.jpeg" style="object-position:52% 0%" data-object-fit="cover" data-object-position="52% 0%"/><div class="wp-block-cover__inner-container"><!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column {"width":"100%"} -->
+<div class="wp-block-column" style="flex-basis:100%"><!-- wp:jetpack/layout-grid {"column1DesktopSpan":6,"column1TabletSpan":4,"column1MobileSpan":4,"column2DesktopSpan":6,"column2TabletSpan":4,"column2MobileSpan":4,"column3DesktopSpan":4,"column3TabletSpan":8,"column3MobileSpan":4,"className":"alignfull column1-desktop-grid__span-6 column1-desktop-grid__row-1 column2-desktop-grid__span-6 column2-desktop-grid__start-7 column2-desktop-grid__row-1 column1-tablet-grid__span-4 column1-tablet-grid__row-1 column2-tablet-grid__span-4 column2-tablet-grid__start-5 column2-tablet-grid__row-1 column1-mobile-grid__span-4 column1-mobile-grid__row-1 column2-mobile-grid__span-4 column2-mobile-grid__row-2"} -->
+<div class="wp-block-jetpack-layout-grid alignfull column1-desktop-grid__span-6 column1-desktop-grid__row-1 column2-desktop-grid__span-6 column2-desktop-grid__start-7 column2-desktop-grid__row-1 column1-tablet-grid__span-4 column1-tablet-grid__row-1 column2-tablet-grid__span-4 column2-tablet-grid__start-5 column2-tablet-grid__row-1 column1-mobile-grid__span-4 column1-mobile-grid__row-1 column2-mobile-grid__span-4 column2-mobile-grid__row-2"><!-- wp:jetpack/layout-grid-column {"padding":"medium"} -->
+<div class="wp-block-jetpack-layout-grid-column wp-block-jetpack-layout-grid__padding-medium"><!-- wp:heading {"style":{"typography":{"fontSize":"48px","fontStyle":"normal","fontWeight":"500"}},"textColor":"background"} -->
+<h2 class="has-background-color has-text-color" id="100-pure-roseessential-oil" style="font-size:48px;font-style:normal;font-weight:500">The Most Flavorful Coffee You'll Ever Taste<br></h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"textColor":"background"} -->
+<p class="has-background-color has-text-color">Coffee is hand blended with ingredients such as dried fruits, nuts, and cocoa that brew an authentically flavorful cup so rich, that it barely needs added sweetness.&nbsp;</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:jetpack/layout-grid-column -->
+
+<!-- wp:jetpack/layout-grid-column -->
+<div class="wp-block-jetpack-layout-grid-column wp-block-jetpack-layout-grid__padding-none"><!-- wp:group -->
+<div class="wp-block-group"></div>
+<!-- /wp:group --></div>
+<!-- /wp:jetpack/layout-grid-column --></div>
+<!-- /wp:jetpack/layout-grid --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div></div>
+<!-- /wp:cover -->
+
+<!-- wp:spacer {"height":"33px"} -->
+<div style="height:33px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"5vh","bottom":"5vh"}}}} -->
+<div class="wp-block-group" style="padding-top:5vh;padding-bottom:5vh"><!-- wp:heading {"textAlign":"center","level":1,"style":{"typography":{"lineHeight":"1.5"}},"fontSize":"large"} -->
+<h1 class="has-text-align-center has-large-font-size" id="rose-essential-oil-is-known-for-its-moisturizing-comforting-and-balancing-properties" style="line-height:1.5">What Makes Our Shop Unique</h1>
+<!-- /wp:heading --></div>
+<!-- /wp:group -->
+
+<!-- wp:jetpack/layout-grid {"column1DesktopSpan":4,"column1TabletSpan":4,"column1MobileSpan":4,"column2DesktopSpan":4,"column2TabletSpan":4,"column2MobileSpan":4,"column3DesktopSpan":4,"column3TabletSpan":8,"column3MobileSpan":4,"column4DesktopOffset":2,"align":"full","className":"column1-desktop-grid__span-4 column1-desktop-grid__row-1 column2-desktop-grid__span-4 column2-desktop-grid__start-5 column2-desktop-grid__row-1 column3-desktop-grid__span-4 column3-desktop-grid__start-9 column3-desktop-grid__row-1 column1-tablet-grid__span-4 column1-tablet-grid__row-1 column2-tablet-grid__span-4 column2-tablet-grid__start-5 column2-tablet-grid__row-1 column3-tablet-grid__span-8 column3-tablet-grid__row-2 column1-mobile-grid__span-4 column1-mobile-grid__row-1 column2-mobile-grid__span-4 column2-mobile-grid__row-2 column3-mobile-grid__span-4 column3-mobile-grid__row-3"} -->
+<div class="wp-block-jetpack-layout-grid alignfull column1-desktop-grid__span-4 column1-desktop-grid__row-1 column2-desktop-grid__span-4 column2-desktop-grid__start-5 column2-desktop-grid__row-1 column3-desktop-grid__span-4 column3-desktop-grid__start-9 column3-desktop-grid__row-1 column1-tablet-grid__span-4 column1-tablet-grid__row-1 column2-tablet-grid__span-4 column2-tablet-grid__start-5 column2-tablet-grid__row-1 column3-tablet-grid__span-8 column3-tablet-grid__row-2 column1-mobile-grid__span-4 column1-mobile-grid__row-1 column2-mobile-grid__span-4 column2-mobile-grid__row-2 column3-mobile-grid__span-4 column3-mobile-grid__row-3"><!-- wp:jetpack/layout-grid-column {"padding":"medium"} -->
+<div class="wp-block-jetpack-layout-grid-column wp-block-jetpack-layout-grid__padding-medium"><!-- wp:heading {"textAlign":"center","level":4} -->
+<h4 class="has-text-align-center"><strong>RICH, FLAVORFUL, AUTHENTIC TASTE</strong></h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Shop is known for our rich and flavorful taste that satisfies sip after sip. We offer a variety of unique selections including seasonal and signature blends and we specialize in flavored and decaf coffees.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:jetpack/layout-grid-column -->
+
+<!-- wp:jetpack/layout-grid-column {"padding":"medium"} -->
+<div class="wp-block-jetpack-layout-grid-column wp-block-jetpack-layout-grid__padding-medium"><!-- wp:heading {"level":4} -->
+<h4><strong>PREMIUM GIFTS FOR ANY OCCASION</strong></h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Our Shop offers sample size bags and custom gift boxes of premium coffee and tea that serves as the perfect gift for birthdays, anniversaries or any celebration. Our unique seasonal blends make any occasion extra special for coffee and tea lovers.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:jetpack/layout-grid-column -->
+
+<!-- wp:jetpack/layout-grid-column {"padding":"medium"} -->
+<div class="wp-block-jetpack-layout-grid-column wp-block-jetpack-layout-grid__padding-medium"><!-- wp:heading {"textAlign":"center","level":4} -->
+<h4 class="has-text-align-center"><strong>100% GUARANTEED SATISFACTION</strong></h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>We believe our key ingredients are the people we serve and the ways we serve them. We are committed to personalizing our experience to fit your needs. If you are not completely satisfied with your purchase, we will go above and beyond to ensure your satisfaction. That's our promise.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:jetpack/layout-grid-column --></div>
+<!-- /wp:jetpack/layout-grid -->
+
+<!-- wp:spacer -->
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:separator {"opacity":"css","align":"full","style":{"color":{"background":"#e5e5e5"}},"className":"alignfull is-style-wide"} -->
+<hr class="wp-block-separator alignfull has-text-color has-css-opacity has-background is-style-wide" style="background-color:#e5e5e5;color:#e5e5e5"/>
+<!-- /wp:separator -->
+
+<!-- wp:jetpack/layout-grid {"column1DesktopSpan":6,"column1TabletSpan":4,"column1MobileSpan":4,"column2DesktopSpan":4,"column2TabletSpan":4,"column2MobileSpan":4,"column3DesktopOffset":2,"align":"full","className":"column1-desktop-grid__span-6 column1-desktop-grid__row-1 column2-desktop-grid__span-4 column2-desktop-grid__start-7 column2-desktop-grid__row-1 column1-tablet-grid__span-4 column1-tablet-grid__row-1 column2-tablet-grid__span-4 column2-tablet-grid__start-5 column2-tablet-grid__row-1 column1-mobile-grid__span-4 column1-mobile-grid__row-1 column2-mobile-grid__span-4 column2-mobile-grid__row-2"} -->
+<div class="wp-block-jetpack-layout-grid alignfull column1-desktop-grid__span-6 column1-desktop-grid__row-1 column2-desktop-grid__span-4 column2-desktop-grid__start-7 column2-desktop-grid__row-1 column1-tablet-grid__span-4 column1-tablet-grid__row-1 column2-tablet-grid__span-4 column2-tablet-grid__start-5 column2-tablet-grid__row-1 column1-mobile-grid__span-4 column1-mobile-grid__row-1 column2-mobile-grid__span-4 column2-mobile-grid__row-2"><!-- wp:jetpack/layout-grid-column -->
+<div class="wp-block-jetpack-layout-grid-column wp-block-jetpack-layout-grid__padding-none"><!-- wp:image {"id":39,"sizeSlug":"large","linkDestination":"none","className":"is-style-rounded"} -->
+<figure class="wp-block-image size-large is-style-rounded"><img src="https://coffeshopexample.files.wordpress.com/2022/04/image-1.png?w=600" alt="" class="wp-image-39"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:jetpack/layout-grid-column -->
+
+<!-- wp:jetpack/layout-grid-column {"padding":"medium"} -->
+<div class="wp-block-jetpack-layout-grid-column wp-block-jetpack-layout-grid__padding-medium"><!-- wp:heading {"level":4} -->
+<h4>The Most Flavorful Coffee You'll Ever Taste</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Etiam dui sem, fermentum vitae, sagittis id, malesuada in, quam. Duis ante orci, molestie vitae vehicula venenatis, tincidunt ac pede. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. In enim a arcu imperdiet malesuada. Quisque porta. Integer malesuada. Nullam sapien sem, ornare ac, nonummy non, lobortis a enim.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer -->
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
+<div class="wp-block-buttons"><!-- wp:button {"width":50,"style":{"border":{"radius":"64px"},"color":{"gradient":"linear-gradient(135deg,rgb(255,203,112) 13%,rgb(199,81,192) 89%,rgb(65,88,208) 100%)"}},"className":"is-style-outline"} -->
+<div class="wp-block-button has-custom-width wp-block-button__width-50 is-style-outline"><a class="wp-block-button__link has-background" style="border-radius:64px;background:linear-gradient(135deg,rgb(255,203,112) 13%,rgb(199,81,192) 89%,rgb(65,88,208) 100%)"><mark style="background-color:rgba(0, 0, 0, 0);" class="has-inline-color has-background-color">Shop Coffee</mark></a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:jetpack/layout-grid-column --></div>
+<!-- /wp:jetpack/layout-grid -->
+
+<!-- wp:separator {"opacity":"css","style":{"color":{"background":"#e5e5e5"}},"className":"alignfull is-style-wide"} -->
+<hr class="wp-block-separator has-text-color has-css-opacity has-background alignfull is-style-wide" style="background-color:#e5e5e5;color:#e5e5e5"/>
+<!-- /wp:separator -->
+
+<!-- wp:jetpack/layout-grid {"column1DesktopSpan":4,"column1DesktopOffset":2,"column1TabletSpan":4,"column1MobileSpan":4,"column2DesktopSpan":6,"column2TabletSpan":4,"column2MobileSpan":4,"align":"full","className":"column1-desktop-grid__span-4 column1-desktop-grid__start-3 column1-desktop-grid__row-1 column2-desktop-grid__span-6 column2-desktop-grid__start-7 column2-desktop-grid__row-1 column1-tablet-grid__span-4 column1-tablet-grid__row-1 column2-tablet-grid__span-4 column2-tablet-grid__start-5 column2-tablet-grid__row-1 column1-mobile-grid__span-4 column1-mobile-grid__row-1 column2-mobile-grid__span-4 column2-mobile-grid__row-2"} -->
+<div class="wp-block-jetpack-layout-grid alignfull column1-desktop-grid__span-4 column1-desktop-grid__start-3 column1-desktop-grid__row-1 column2-desktop-grid__span-6 column2-desktop-grid__start-7 column2-desktop-grid__row-1 column1-tablet-grid__span-4 column1-tablet-grid__row-1 column2-tablet-grid__span-4 column2-tablet-grid__start-5 column2-tablet-grid__row-1 column1-mobile-grid__span-4 column1-mobile-grid__row-1 column2-mobile-grid__span-4 column2-mobile-grid__row-2"><!-- wp:jetpack/layout-grid-column {"padding":"medium","verticalAlignment":"center"} -->
+<div class="wp-block-jetpack-layout-grid-column wp-block-jetpack-layout-grid__padding-medium is-vertically-aligned-center"><!-- wp:heading {"level":4} -->
+<h4>The Most Flavorful Coffee You'll Ever Taste</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Etiam dui sem, fermentum vitae, sagittis id, malesuada in, quam. Duis ante orci, molestie vitae vehicula venenatis, tincidunt ac pede. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. In enim a arcu imperdiet malesuada. Quisque porta. Integer malesuada. Nullam sapien sem, ornare ac, nonummy non, lobortis a enim.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
+<div class="wp-block-buttons"><!-- wp:button {"textColor":"foreground","width":50,"style":{"border":{"radius":"64px"},"color":{"gradient":"linear-gradient(135deg,rgb(202,248,128) 18%,rgb(113,206,126) 50%)"}},"className":"is-style-outline"} -->
+<div class="wp-block-button has-custom-width wp-block-button__width-50 is-style-outline"><a class="wp-block-button__link has-foreground-color has-text-color has-background" style="border-radius:64px;background:linear-gradient(135deg,rgb(202,248,128) 18%,rgb(113,206,126) 50%)"><mark style="background-color:rgba(0, 0, 0, 0);" class="has-inline-color has-foreground-color">Shop Tea</mark></a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:jetpack/layout-grid-column -->
+
+<!-- wp:jetpack/layout-grid-column -->
+<div class="wp-block-jetpack-layout-grid-column wp-block-jetpack-layout-grid__padding-none"><!-- wp:image {"id":49,"width":768,"height":607,"sizeSlug":"large","linkDestination":"none","className":"is-style-rounded"} -->
+<figure class="wp-block-image size-large is-resized is-style-rounded"><img src="https://coffeshopexample.files.wordpress.com/2022/04/teapackagemockupscene.png?w=1024" alt="" class="wp-image-49" width="768" height="607"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:jetpack/layout-grid-column --></div>
+<!-- /wp:jetpack/layout-grid -->
+
+<!-- wp:separator {"opacity":"css","style":{"color":{"background":"#e5e5e5"}},"className":"alignfull is-style-wide"} -->
+<hr class="wp-block-separator has-text-color has-css-opacity has-background alignfull is-style-wide" style="background-color:#e5e5e5;color:#e5e5e5"/>
+<!-- /wp:separator -->
+
+<!-- wp:jetpack/layout-grid {"column1DesktopSpan":5,"column1DesktopOffset":1,"column1TabletSpan":4,"column1MobileSpan":4,"column2DesktopSpan":5,"column2DesktopOffset":1,"column2TabletSpan":4,"column2MobileSpan":4,"align":"full","className":"column1-desktop-grid__span-5 column1-desktop-grid__start-2 column1-desktop-grid__row-1 column2-desktop-grid__span-5 column2-desktop-grid__start-8 column2-desktop-grid__row-1 column1-tablet-grid__span-4 column1-tablet-grid__row-1 column2-tablet-grid__span-4 column2-tablet-grid__start-5 column2-tablet-grid__row-1 column1-mobile-grid__span-4 column1-mobile-grid__row-1 column2-mobile-grid__span-4 column2-mobile-grid__row-2"} -->
+<div class="wp-block-jetpack-layout-grid alignfull column1-desktop-grid__span-5 column1-desktop-grid__start-2 column1-desktop-grid__row-1 column2-desktop-grid__span-5 column2-desktop-grid__start-8 column2-desktop-grid__row-1 column1-tablet-grid__span-4 column1-tablet-grid__row-1 column2-tablet-grid__span-4 column2-tablet-grid__start-5 column2-tablet-grid__row-1 column1-mobile-grid__span-4 column1-mobile-grid__row-1 column2-mobile-grid__span-4 column2-mobile-grid__row-2"><!-- wp:jetpack/layout-grid-column -->
+<div class="wp-block-jetpack-layout-grid-column wp-block-jetpack-layout-grid__padding-none"><!-- wp:heading -->
+<h2>See Us!</h2>
+<!-- /wp:heading -->
+
+<!-- wp:jetpack/map {"points":[{"placeTitle":"Teplice","title":"Teplice","caption":"Teplice, Ústí nad Labem, Czech Republic","id":"place.14745290697319090","coordinates":{"longitude":13.824446,"latitude":50.640664}}],"mapCenter":{"lng":13.824446,"lat":50.640664}} -->
+<div class="wp-block-jetpack-map" data-map-style="default" data-map-details="true" data-points="[{&quot;placeTitle&quot;:&quot;Teplice&quot;,&quot;title&quot;:&quot;Teplice&quot;,&quot;caption&quot;:&quot;Teplice, Ústí nad Labem, Czech Republic&quot;,&quot;id&quot;:&quot;place.14745290697319090&quot;,&quot;coordinates&quot;:{&quot;longitude&quot;:13.824446,&quot;latitude&quot;:50.640664}}]" data-zoom="13" data-map-center="{&quot;lng&quot;:13.824446,&quot;lat&quot;:50.640664}" data-marker-color="red" data-show-fullscreen-button="true"><ul><li><a href="https://www.google.com/maps/search/?api=1&amp;query=50.640664,13.824446">Teplice</a></li></ul></div>
+<!-- /wp:jetpack/map --></div>
+<!-- /wp:jetpack/layout-grid-column -->
+
+<!-- wp:jetpack/layout-grid-column -->
+<div class="wp-block-jetpack-layout-grid-column wp-block-jetpack-layout-grid__padding-none"><!-- wp:jetpack/contact-form {"subject":"[Coffee Shop] ","to":"josef.fryk@gmail.com"} -->
+<div class="wp-block-jetpack-contact-form"><!-- wp:heading -->
+<h2>Contact Us!</h2>
+<!-- /wp:heading -->
+
+<!-- wp:jetpack/field-name {"required":true} /-->
+
+<!-- wp:jetpack/field-email {"required":true} /-->
+
+<!-- wp:jetpack/field-textarea /-->
+
+<!-- wp:jetpack/button {"element":"button","text":"Contact Us"} /--></div>
+<!-- /wp:jetpack/contact-form --></div>
+<!-- /wp:jetpack/layout-grid-column --></div>
+<!-- /wp:jetpack/layout-grid -->
+
+<!-- wp:separator {"align":"full","backgroundColor":"cyan-bluish-gray","className":"is-style-wide"} -->
+<hr class="wp-block-separator alignfull has-text-color has-cyan-bluish-gray-color has-alpha-channel-opacity has-cyan-bluish-gray-background-color has-background is-style-wide"/>
+<!-- /wp:separator -->
+
+<!-- wp:jetpack/layout-grid {"column1DesktopSpan":12,"column1TabletSpan":8,"column1MobileSpan":4,"align":"full","className":"column1-desktop-grid__span-12 column1-desktop-grid__row-1 column1-tablet-grid__span-8 column1-tablet-grid__row-1 column1-mobile-grid__span-4 column1-mobile-grid__row-1"} -->
+<div class="wp-block-jetpack-layout-grid alignfull column1-desktop-grid__span-12 column1-desktop-grid__row-1 column1-tablet-grid__span-8 column1-tablet-grid__row-1 column1-mobile-grid__span-4 column1-mobile-grid__row-1"><!-- wp:jetpack/layout-grid-column -->
+<div class="wp-block-jetpack-layout-grid-column wp-block-jetpack-layout-grid__padding-none"><!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"6vh","bottom":"6vh"}},"elements":{"link":{"color":{"text":"var:preset|color|background"}}}},"backgroundColor":"foreground","textColor":"background","layout":{"inherit":true}} -->
+<div class="wp-block-group alignfull has-background-color has-foreground-background-color has-text-color has-background has-link-color" style="padding-top:6vh;padding-bottom:6vh"><!-- wp:jetpack/layout-grid {"gutterSize":"medium","column1DesktopSpan":6,"column1TabletSpan":4,"column1MobileSpan":4,"column2DesktopSpan":2,"column2DesktopOffset":1,"column2TabletSpan":2,"column2MobileSpan":4,"column3DesktopSpan":2,"column3TabletSpan":2,"column3MobileSpan":4,"column4DesktopOffset":6,"column4TabletOffset":9,"align":"full","className":"column1-desktop-grid__span-6 column1-desktop-grid__row-1 column2-desktop-grid__span-2 column2-desktop-grid__start-8 column2-desktop-grid__row-1 column3-desktop-grid__span-2 column3-desktop-grid__start-10 column3-desktop-grid__row-1 column1-tablet-grid__span-4 column1-tablet-grid__row-1 column2-tablet-grid__span-2 column2-tablet-grid__start-5 column2-tablet-grid__row-1 column3-tablet-grid__span-2 column3-tablet-grid__start-7 column3-tablet-grid__row-1 column1-mobile-grid__span-4 column1-mobile-grid__row-1 column2-mobile-grid__span-4 column2-mobile-grid__row-2 column3-mobile-grid__span-4 column3-mobile-grid__row-3"} -->
+<div class="wp-block-jetpack-layout-grid alignfull column1-desktop-grid__span-6 column1-desktop-grid__row-1 column2-desktop-grid__span-2 column2-desktop-grid__start-8 column2-desktop-grid__row-1 column3-desktop-grid__span-2 column3-desktop-grid__start-10 column3-desktop-grid__row-1 column1-tablet-grid__span-4 column1-tablet-grid__row-1 column2-tablet-grid__span-2 column2-tablet-grid__start-5 column2-tablet-grid__row-1 column3-tablet-grid__span-2 column3-tablet-grid__start-7 column3-tablet-grid__row-1 column1-mobile-grid__span-4 column1-mobile-grid__row-1 column2-mobile-grid__span-4 column2-mobile-grid__row-2 column3-mobile-grid__span-4 column3-mobile-grid__row-3 wp-block-jetpack-layout-gutter__medium"><!-- wp:jetpack/layout-grid-column -->
+<div class="wp-block-jetpack-layout-grid-column wp-block-jetpack-layout-grid__padding-none"><!-- wp:heading {"textAlign":"center","level":4} -->
+<h4 class="has-text-align-center">Follow Us!</h4>
+<!-- /wp:heading -->
+
+<!-- wp:jetpack/layout-grid {"verticalAlignment":"center","column1DesktopSpan":2,"column1TabletSpan":4,"column1MobileSpan":4,"column2DesktopSpan":2,"column2TabletSpan":4,"column2MobileSpan":4,"column3DesktopSpan":2,"column3TabletSpan":4,"column3MobileSpan":4,"column4DesktopSpan":2,"column4TabletSpan":4,"column4MobileSpan":4,"className":"column1-desktop-grid__span-2 column1-desktop-grid__row-1 column2-desktop-grid__span-2 column2-desktop-grid__start-3 column2-desktop-grid__row-1 column3-desktop-grid__span-2 column3-desktop-grid__start-5 column3-desktop-grid__row-1 column4-desktop-grid__span-2 column4-desktop-grid__start-7 column4-desktop-grid__row-1 column1-tablet-grid__span-4 column1-tablet-grid__row-1 column2-tablet-grid__span-4 column2-tablet-grid__start-5 column2-tablet-grid__row-1 column3-tablet-grid__span-4 column3-tablet-grid__row-2 column4-tablet-grid__span-4 column4-tablet-grid__start-5 column4-tablet-grid__row-2 column1-mobile-grid__span-4 column1-mobile-grid__row-1 column2-mobile-grid__span-4 column2-mobile-grid__row-2 column3-mobile-grid__span-4 column3-mobile-grid__row-3 column4-mobile-grid__span-4 column4-mobile-grid__row-4"} -->
+<div class="wp-block-jetpack-layout-grid column1-desktop-grid__span-2 column1-desktop-grid__row-1 column2-desktop-grid__span-2 column2-desktop-grid__start-3 column2-desktop-grid__row-1 column3-desktop-grid__span-2 column3-desktop-grid__start-5 column3-desktop-grid__row-1 column4-desktop-grid__span-2 column4-desktop-grid__start-7 column4-desktop-grid__row-1 column1-tablet-grid__span-4 column1-tablet-grid__row-1 column2-tablet-grid__span-4 column2-tablet-grid__start-5 column2-tablet-grid__row-1 column3-tablet-grid__span-4 column3-tablet-grid__row-2 column4-tablet-grid__span-4 column4-tablet-grid__start-5 column4-tablet-grid__row-2 column1-mobile-grid__span-4 column1-mobile-grid__row-1 column2-mobile-grid__span-4 column2-mobile-grid__row-2 column3-mobile-grid__span-4 column3-mobile-grid__row-3 column4-mobile-grid__span-4 column4-mobile-grid__row-4 are-vertically-aligned-center"><!-- wp:jetpack/layout-grid-column {"verticalAlignment":"center"} -->
+<div class="wp-block-jetpack-layout-grid-column wp-block-jetpack-layout-grid__padding-none is-vertically-aligned-center"><!-- wp:image {"id":69,"width":60,"height":60,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large is-resized"><img src="https://coffeshopexample.files.wordpress.com/2022/04/iconmonstr-instagram-11-240-1.png?w=240" alt="" class="wp-image-69" width="60" height="60"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:jetpack/layout-grid-column -->
+
+<!-- wp:jetpack/layout-grid-column {"verticalAlignment":"center"} -->
+<div class="wp-block-jetpack-layout-grid-column wp-block-jetpack-layout-grid__padding-none is-vertically-aligned-center"><!-- wp:image {"id":71,"width":60,"height":60,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large is-resized"><img src="https://coffeshopexample.files.wordpress.com/2022/04/iconmonstr-facebook-1-240.png?w=240" alt="" class="wp-image-71" width="60" height="60"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:jetpack/layout-grid-column -->
+
+<!-- wp:jetpack/layout-grid-column {"verticalAlignment":"center"} -->
+<div class="wp-block-jetpack-layout-grid-column wp-block-jetpack-layout-grid__padding-none is-vertically-aligned-center"><!-- wp:image {"id":72,"width":60,"height":60,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large is-resized"><img src="https://coffeshopexample.files.wordpress.com/2022/04/iconmonstr-twitter-1-240.png?w=240" alt="" class="wp-image-72" width="60" height="60"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:jetpack/layout-grid-column -->
+
+<!-- wp:jetpack/layout-grid-column {"verticalAlignment":"center"} -->
+<div class="wp-block-jetpack-layout-grid-column wp-block-jetpack-layout-grid__padding-none is-vertically-aligned-center"><!-- wp:image {"id":73,"width":52,"height":52,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large is-resized"><img src="https://coffeshopexample.files.wordpress.com/2022/04/iconmonstr-github-1-240.png?w=240" alt="" class="wp-image-73" width="52" height="52"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:jetpack/layout-grid-column --></div>
+<!-- /wp:jetpack/layout-grid --></div>
+<!-- /wp:jetpack/layout-grid-column -->
+
+<!-- wp:jetpack/layout-grid-column -->
+<div class="wp-block-jetpack-layout-grid-column wp-block-jetpack-layout-grid__padding-none"><!-- wp:heading {"level":5} -->
+<h5 id="the-small-print"><strong>The mall Print</strong></h5>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"fontSize":"small"} -->
+<p class="has-small-font-size"><a href="#">Delivery</a> </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"fontSize":"small"} -->
+<p class="has-small-font-size"><a href="#">Returns</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"fontSize":"small"} -->
+<p class="has-small-font-size"><a href="#">FAQ</a></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:jetpack/layout-grid-column -->
+
+<!-- wp:jetpack/layout-grid-column -->
+<div class="wp-block-jetpack-layout-grid-column wp-block-jetpack-layout-grid__padding-none"><!-- wp:heading {"level":5} -->
+<h5 id="social-media"><strong>Social Media</strong></h5>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"textColor":"background","fontSize":"small"} -->
+<p class="has-background-color has-text-color has-small-font-size"><a href="#">Facebook</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"fontSize":"small"} -->
+<p class="has-small-font-size"><a href="#">Instagram</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"fontSize":"small"} -->
+<p class="has-small-font-size"><a href="#">Pinterest</a></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:jetpack/layout-grid-column --></div>
+<!-- /wp:jetpack/layout-grid -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">Proudly Powered by <a href="https://wordpress.org" rel="nofollow">WordPress</a></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:jetpack/layout-grid-column --></div>
+<!-- /wp:jetpack/layout-grid -->
